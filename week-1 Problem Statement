@@ -1,1 +1,2 @@
-
+Given a user's past movie ratings and behavioral patterns, along with movie metadata (genre, director, cast, etc.), 
+build a system that predicts how a user would rate an unseen movie and recommends the top-N movies they are most likely to enjoy.
